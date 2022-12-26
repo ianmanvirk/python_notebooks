@@ -1,12 +1,12 @@
 # Set of python notebooks with model, hypothesis tests and EDA
 
 ## Files:
-1. [broken_machine.ipynb](#broken_machine.ipynb)
-2. [sick_leave.ipynb](#sick_leave.ipynb)
-3. [travel_accommodation.ipynb](#travel_accommodation.ipynb)
+1. [broken_machine.ipynb](#broken-machine)
+2. [sick_leave.ipynb](#sick-leave)
+3. [travel_accommodation.ipynb](#travel-accommodation)
 
 
-### broken_machine.ipynb
+### Broken Machine
 
 > #### Notebook:
 > Test performance of:
@@ -21,7 +21,7 @@
 > #### Dataset:
 > * [link to dataset]
 
-### sick_leave.ipynb
+### Sick Leave
 
 > #### Notebook:
 > Hypothesis test with p-value.
@@ -32,7 +32,7 @@
 > #### Dataset:
 > * [link to dataset]
 
-### travel_accommodation.ipynb
+### Travel Accommodation
 
 > #### Notebook:
 > Testing classifiers:
