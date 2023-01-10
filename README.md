@@ -1,49 +1,8 @@
 ## Set of python notebooks with models, hypothesis tests and EDA
 
-#### Short description:
-1. [broken_machine](#broken-machine)
-2. [sick_leave](#sick-leave)
-3. [travel_accommodation](#travel-accommodation)
-
-
-#### Broken Machine
-> #### Notebook:
-> Test performance of:
-> 1. Logistic Regression
-> 2. Decision Tree
-> 3. Random Forest Classifier
-> 4. k-Nearest Neighbors
-> 5. Support Vector Machines
-> 
-> with and without PCA.
-> 
-> #### Dataset:
-> - Data: Machinery breakdowns
-> - Features: about 60 unnamed
-
-
-#### Sick Leave
-> #### Notebook:
-> Hypothesis test with p-value.
-> Questions to answer:
-> 1. Do men get sick more often than women?
-> 2. Same question about the people who are over and under 35 y.o.
-> 
-> #### Dataset:
-> - Data: Sick leaves
-> - Features: 3: age, sex and the amount of sick leaves.
-
-
-#### Travel Accommodation
-> #### Notebook:
-> Testing classifiers:
-> 1. Random Forest 100
-> 2. Decision Tree 2
-> 3. KNN 5
-> 4. Logistic Regression
-> 
-> and One-Hot Encoding
-> 
-> #### Dataset:
-> - Data: Accommodation types
-> - Features: 6: duration of stay, gender, age, has kids, destination code, type
+#### Table of Notebooks:
+| Notebook | Description | Dataset |
+| :---: | --- | --- |
+| [broken_machine](/tree/main/broken_machine) | Test performance of: <br /> 1. Logistic Regression <br /> 2. Decision Tree <br /> 3. Random Forest Classifier <br /> 4. k-Nearest Neighbors <br /> 5. Support Vector Machines <br /><br />  with and without PCA. | - Data: Machinery breakdowns <br />  - Features: about 60 unnamed |
+| [sick_leave](/tree/main/sick_leave) | Hypothesis test with p-value. <br /> Questions to answer: <br /> 1. Do men get sick more often than women? <br /> 2. Same question about the people who are over and under 35 y.o. | - Data: Sick leaves <br /> - Features: 3: age, sex and the amount of sick leaves. |
+| [travel_accommodation](/tree/main/travel_accommodation) | Testing classifiers: <br /> 1. Random Forest 100 <br /> 2. Decision Tree 2 <br /> 3. KNN 5 <br /> 4. Logistic Regression <br /><br /> and One-Hot Encoding | - Data: Accommodation types <br /> - Features: 6: duration of stay, gender, age, has kids, destination code, type |
