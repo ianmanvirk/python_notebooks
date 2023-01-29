@@ -40,6 +40,7 @@
 > 2. Decision Tree 2
 > 3. KNN 5
 > 4. Logistic Regression
+> 
 > and One-Hot Encoding
 > 
 > #### Dataset:
